@@ -1,0 +1,13 @@
+---
+# This is the only sass file that needs front matter
+# Sass imoprts come from the _sass directory
+---
+
+// Import defaults
+@import
+  "base";
+
+// Import layout
+@import
+  "layouts/header",
+  "layouts/main";
